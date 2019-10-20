@@ -15,7 +15,7 @@
   icon: fa-plus-square
   present: true
 
- name:
+- name:
     detail: OSU Department of Civil Engineering
     i18n: company_b
   desc:
@@ -43,5 +43,3 @@
     detail: Business Analyst Intern
     i18n: company_c_job
   icon: fa-plus-square
-
--
