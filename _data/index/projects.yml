@@ -5,7 +5,7 @@
   i18n: AML
   gh_user: mingfengKeith
   repo: Applied-Machine-Learning-Projects
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/ML_Columbia.jpg
   desc: This is a collection of applied machine learning projects done in SP 2019.
 
 - name: Columbia Hackathon
@@ -23,7 +23,7 @@
 
 - name: Jalpc
   i18n: jalpc
-  gh_user: jarrekk
+  gh_user: mingfengKeith
   repo: mingfengKeith.github.io
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is a personal website project built on Jalpc. 
+  desc: This project is a personal website project built on Jalpc.
