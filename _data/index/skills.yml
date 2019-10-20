@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, SQL, R, Machine Learing, Statistical Modeling, PowerBI
+aspects: Statistical Modeling, SQL, R, Machine Learing, Python, PowerBI
 percentage: 90, 90, 70, 80, 90, 70
