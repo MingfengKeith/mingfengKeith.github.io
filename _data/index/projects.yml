@@ -13,10 +13,10 @@
   gh_user: mingfengKeith
   repo:
   img: /static/assets/img/landing/cdss.png
-  desc: This project is Columbia University Data Science Hackathon project. I use another request to get repo's information.
+  desc: This project is Columbia University Data Science Hackathon project. /# neural network /# python /# SQL
 
 - name: SF Muni Transit Customer Loyalty Analysis
   i18n: OSU
   url: https://www.sciencedirect.com/science/article/pii/S2214367X18301807
   img: /static/assets/img/landing/OSU.jpg
-  desc: This is a research project initiated by Dr. Andre Carrel.
+  desc: This is a research project initiated by Dr. Andre Carrel. /# Customer Satisfaction Analysis /# R
