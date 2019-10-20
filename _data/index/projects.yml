@@ -13,7 +13,7 @@
   gh_user: mingfengKeith
   repo: CDSS-Hackathon
   img: /static/assets/img/landing/cdss.png
-  desc: This project is Columbia University Data Science Hackathon project.
+  desc: This project is Columbia University Data Science Hackathon project. We achieved 3rd Place.
 
 - name: SF Muni Transit Customer Loyalty Analysis
   i18n: OSU
