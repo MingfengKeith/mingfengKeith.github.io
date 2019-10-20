@@ -1,12 +1,12 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+- name: Applied Machine Learning projects
+  i18n: AML
+  gh_user: mingfengKeith
+  repo: Applied-Machine-Learning-Projects
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: This is a collection of applied machine learning projects done in SP 2019.
 
 - name: Columbia Hackathon
   i18n: cpython
@@ -20,3 +20,10 @@
   url: https://www.sciencedirect.com/science/article/pii/S2214367X18301807
   img: /static/assets/img/landing/OSU.jpg
   desc: This is a research project initiated by Dr. Andre Carrel. /# Customer Satisfaction Analysis /# R
+
+- name: Jalpc
+  i18n: jalpc
+  gh_user: jarrekk
+  repo: mingfengKeith.github.io
+  img: /static/assets/img/landing/jekyll.png
+  desc: This project is a personal website project built on Jalpc. 
