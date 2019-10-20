@@ -11,15 +11,15 @@
 - name: Columbia Hackathon
   i18n: cpython
   gh_user: mingfengKeith
-  repo:
+  repo: CDSS-Hackathon
   img: /static/assets/img/landing/cdss.png
-  desc: This project is Columbia University Data Science Hackathon project. /# neural network /# python /# SQL
+  desc: This project is Columbia University Data Science Hackathon project.
 
 - name: SF Muni Transit Customer Loyalty Analysis
   i18n: OSU
   url: https://www.sciencedirect.com/science/article/pii/S2214367X18301807
   img: /static/assets/img/landing/OSU.jpg
-  desc: This is a research project initiated by Dr. Andre Carrel. /# Customer Satisfaction Analysis /# R
+  desc: This is a research project initiated by Dr. Andre Carrel.
 
 - name: Jalpc
   i18n: jalpc
