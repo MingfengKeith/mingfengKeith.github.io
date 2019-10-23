@@ -10,4 +10,5 @@ icon: icon-html
 ---
 
 [Convolutional Neural Network](http://cs231n.github.io/convolutional-networks/)
+
 [gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
