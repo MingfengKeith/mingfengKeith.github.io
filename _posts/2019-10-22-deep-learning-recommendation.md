@@ -14,3 +14,7 @@ icon: icon-html
 [Gradient Descent Optimization Algorithms](http://ruder.io/optimizing-gradient-descent/)
 
 [colah's blog](http://colah.github.io/)
+
+[Understanding Adam - adaptive rate optimization Algorithm](https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c)
+
+[Weight Initializers](https://towardsdatascience.com/hyper-parameters-in-action-part-ii-weight-initializers-35aee1a28404)
