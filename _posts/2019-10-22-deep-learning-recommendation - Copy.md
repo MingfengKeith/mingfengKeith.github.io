@@ -23,7 +23,7 @@ icon: icon-html
 
 [Initializing neural networks](https://www.deeplearning.ai/ai-notes/initialization/)
 
-##Activation Functions
+## Activation Functions
 
 [Activation Functions](https://towardsdatascience.com/hyper-parameters-in-action-a524bf5bf1c)
 
